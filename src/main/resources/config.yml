@@ -1,0 +1,8 @@
+# =========================================================
+# Firma-Plugin Konfiguration
+# =========================================================
+# Aktuell sind Preise/Basiswerte direkt im Code hinterlegt:
+# - Firma gruenden: 100.000$ (de.allinone.firma.gui.FirmaGuiListener)
+# - Mitarbeiter anstellen: 25.000$ (de.allinone.firma.gui.EmployeesGui)
+# - Upgrade-Kosten: de.allinone.firma.gui.UpgradeGui
+# =========================================================

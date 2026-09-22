@@ -1,0 +1,11 @@
+name: FirmaPlugin
+version: '1.0'
+main: de.allinone.firma.FirmaPlugin
+api-version: '1.21'
+author: AllInOne
+description: Firmensystem - Firmen gruenden, verwalten, upgraden, verkaufen. Digitale Mitarbeiter, Bank, Immobilien und Bauauftraege. Alles per GUI.
+depend: [Vault]
+commands:
+  firma:
+    description: Oeffnet das Firma-Menue
+    usage: /firma
